@@ -19,7 +19,7 @@
 
 ***3. pkg install git***
 
-***4. git clone https://github.com/sibirubah/gojekinv2***
+***4. git clone https://github.com/cupiz/gojekap***
 
 ***5. cd gojekap***
 
